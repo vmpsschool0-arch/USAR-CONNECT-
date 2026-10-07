@@ -1,0 +1,6 @@
+{
+  "name": "USAR Connect",
+  "description": "Official Web Portal for GGSIPU East Delhi Campus (EDC) featuring USAR, USAP, AIC-GGSIPU, Admissions 2026, Student Portal, and AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
